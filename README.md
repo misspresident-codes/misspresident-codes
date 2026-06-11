@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
 </p>
 <img align="right" alt="Coding Girl" width="350"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 * 🎓 B.Tech in Internet of Things at **MITS Gwalior**
 
