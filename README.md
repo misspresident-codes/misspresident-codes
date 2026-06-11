@@ -2,9 +2,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
 </p>
-
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding Girl" width="350"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 * 🎓 B.Tech in Internet of Things at **MITS Gwalior**
 
@@ -35,7 +34,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" />
 </a>
 
-<a href="skhyati263@gmail.com">
+<a href="skhyati263@gamil.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
