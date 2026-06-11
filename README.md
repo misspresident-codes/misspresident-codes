@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kartik Singh Parihar</h1>
+<h1 align="center">Hi 👋,Khyati Sahu</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Full+Stack+Learner;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <img align="right" alt="Coding" width="350"
@@ -16,9 +16,9 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 * 🎯 Solved **30+ LeetCode Problems**
 
-* 📊 Current CGPA **7.5**
+* 📊 Current CGPA **8.7**
 
-* 📫 Email: **[kartiksinghp2006@gmail.com](kartiksinghp2006@gmail.com)**
+* 📫 Email: **[skhayti263@gamil.com](skhayti263@gamil.com)**
 
 ---
 
@@ -27,19 +27,15 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kartik-singh-parihar-973518329" target="blank">
+<a href="https://www.linkedin.com/in/khyati-sahu-178506380/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://kartik-portfolio-beryl-three.vercel.app/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=vercel" height="45" />
-</a>
-
-<a href="https://leetcode.com/u/Kartik_leetcodee01/" target="blank">
+<a href="https://leetcode.com/u/KhyatiSahu1111/" target="blank">
 <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" />
 </a>
 
-<a href="kartiksinghp2006@gmail.com">
+<a href="skhyati263@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
